@@ -1,16 +1,16 @@
-## Hi there 👋
+**Olá! Eu sou o Henrique 👋**
 
-<!--
-**henriqueroldan/henriqueroldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fundador da **HD Celulares e Tecnologia**, especialista em microeletrônica Apple e *builder* de soluções em Inteligência Artificial e sistemas web em evolução contínua. Minha trajetória conecta o rigor da engenharia eletrônica de missão crítica com a criação prática de software para automação de negócios.
 
-Here are some ideas to get you started:
+**🛠️ Base Técnica, Engenharia & Trajetória**
+* **Microeletrônica Avançada:** Especialista em diagnóstico e reparo em nível de componente em placas de iPhone na HD Celulares e Tecnologia.
+* **Engenharia Hospitalar (15+ anos):** Sólida experiência na manutenção de equipamentos médicos de alta complexidade, com certificações e treinamentos de fábrica pela **GE Healthcare Latin America**, **Dräger Life Cycle Solutions**, **Getinge Infection Control**, **Maquet Surgical Workplaces & Critical Care** e **ArjoHuntleigh Academy (Pressure Area Care Systems)**.
+* **Formação & Pesquisa:** Técnico em Eletrônica pela **ETE Visconde de Mauá / FAETEC** (2009, CR 7,8 — CONFEA CREA 201051743). Curso interrompido de **Engenharia Eletrônica e de Computação na UFRJ**, com atuação em Iniciação Científica em **Computação Quântica e Análise Matemática**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🤖 O que estou construindo e estudando atualmente (IA & Software)**
+Levando a lógica dos circuitos e da análise matemática para o código, desenvolvo ferramentas próprias em constante aprendizado:
+* **Agentes de IA & Orquestração:** Fluxos autônomos para atendimento, triagem técnica e gestão operacional.
+* **Contexto e Memória:** Implementação prática de **MCP (Model Context Protocol)** e **Graphiti** para memória persistente em grafos.
+* **Sistemas & Data Analysis:** Desenvolvimento via Web Coding, integração de **APIs**, análise de dados operacionais e automações nativas no ecossistema **macOS**.
+
+📫 *Sempre aberto a conexões sobre microeletrônica, arquitetura de agentes de IA, análise de dados e automação empresarial.*
